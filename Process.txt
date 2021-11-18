@@ -1,0 +1,9 @@
+In this project i am going to compare Sachin and Kohli
+I have ODI.csv data.
+For comparing these two legend we will look into some parameter to compare like 
+Total runs.
+Rate per innings
+Strike rate
+Total 100's
+Total 50's
+ last and very important Team Contribution.
